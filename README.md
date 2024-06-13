@@ -9,8 +9,8 @@ https://tennisreact.netlify.app/
 이 테니스 웹사이트는 React와 React Router를 사용하여 구축되었습니다. 홈페이지에서는 간결하고 직관적인 디자인과 사용자들이 손쉽게 접근할 수 있는 내비게이션을 제공합니다. "Intro", "Youtube", "Movie", "Unsplash", 그리고 "Port" 페이지에서는 각각 다른 주제와 기능을 소개합니다.
 
 ## 구성
-src-- assets -- images
-             -- sass
+src-- assets -- images \
+             -- sass   \
    -- components -- intro
                  -- layout
                  -- movie
